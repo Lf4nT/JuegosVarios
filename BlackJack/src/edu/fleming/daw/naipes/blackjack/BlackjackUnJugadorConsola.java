@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class BlackjackUnJugadorConsola {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 
 		boolean f;

@@ -1,7 +1,9 @@
 package edu.fleming.daw.naipes.blackjack;
 
-import lel.Mazo;
+import edu.fleming.daw.naipes.Mazo;
+import edu.fleming.daw.naipes.Naipe;
 
+@SuppressWarnings("unused")
 public class PartidaUnJugador {
 
 	private MazoBJ deck = new MazoBJ();

@@ -2,9 +2,9 @@ package edu.fleming.daw.naipes.blackjack;
 
 import java.util.Iterator;
 
-import lel.Id;
-import lel.Mazo;
-import lel.Naipe;
+import edu.fleming.daw.naipes.Id;
+import edu.fleming.daw.naipes.Mazo;
+import edu.fleming.daw.naipes.Naipe;
 
 public class Mano extends Mazo {
 
